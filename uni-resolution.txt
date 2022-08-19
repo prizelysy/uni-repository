@@ -2,3 +2,5 @@ Resolutions
 - resolution 1
 - resolution 2
 - resolution 3
+- resolution 4
+- resoulution 3
