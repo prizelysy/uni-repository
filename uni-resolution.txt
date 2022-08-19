@@ -3,4 +3,6 @@ Resolutions
 - resolution 2
 - resolution 3
 - resolution 4
-- resoulution 3
+- resolution 5
+- resolution 6
+- resolution 7
