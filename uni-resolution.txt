@@ -6,3 +6,5 @@ Resolutions
 - resolution 5
 - resolution 6
 - resolution 7
+
+there are 7 resolutions now and will be updated soon. 
