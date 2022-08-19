@@ -1,0 +1,4 @@
+Resolutions
+- resolution 1
+- resolution 2
+- resolution 3
